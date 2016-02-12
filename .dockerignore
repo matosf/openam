@@ -2,5 +2,4 @@
 *
 
 # except
-!.dockerignore
 !server.xml
